@@ -2,7 +2,7 @@
   // عناصر
   const header = document.querySelector("header");
   const headerHeight = header ? header.offsetHeight : 0;
-  const links = document.querySelectorAll('nav a[href^="#"]');
+  const links = document.querySelectorAll('a[href^="#"]');
   const sections = document.querySelectorAll("main section[id]");
   const scroller =
     document.scrollingElement || document.documentElement || document.body;
