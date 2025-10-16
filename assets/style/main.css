@@ -20,7 +20,7 @@ body {
 
 /* ----- Header ----- */
 header {
-  background-color: #ffa600ca;
+  background-color: #ffa600;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -357,7 +357,7 @@ h2 span {
   width: 100%;
   max-width: 520px;
   margin: 0 auto;
-  background-image: url(../img/pexels-tima-miroshnichenko-5327511.jpg);
+  background-image: url("../img/pexels-tima-miroshnichenko-5327511.jpg");
   background-position: center;
   backdrop-filter: blur(4px);
   border-radius: 12px;
